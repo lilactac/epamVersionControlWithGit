@@ -6,4 +6,3 @@ new lines
 
 line to canel
 X2
-line yo cancel remote
